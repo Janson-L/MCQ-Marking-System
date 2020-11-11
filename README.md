@@ -65,6 +65,15 @@ By MCQ Sdn. Bhd.
  - *Project Integration Management*
  
  Project integration management happens from the start to the finish of a project. It touches on every aspect of project management. It integrates all the aspects discussed earlier in order to produce a complete project. We would select a capable team member to be the team leader, as integration management is very important part and should be handled by team leader only. 
+ 
+ ## Simple Work Breakdown Structure
+ 
+ ![WBS](C:/Users/yyeon/Pictures/WBS.jpg)
+ 
+ ## Gantt Chart
+ 
+ ![Gantt Chart](C:/Users/yyeon/Pictures/GC Final.jpeg)
+ 
 
  
  
