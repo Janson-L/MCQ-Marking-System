@@ -72,7 +72,7 @@ By MCQ Sdn. Bhd.
  
  ## Gantt Chart
  
- ![Gantt Chart](images/GC Final.jpeg)
+ ![Gantt Chart](images/GCFinal.jpeg)
  
 
  
