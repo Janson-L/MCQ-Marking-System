@@ -68,11 +68,11 @@ By MCQ Sdn. Bhd.
  
  ## Simple Work Breakdown Structure
  
- ![WBS](C:/Users/yyeon/Pictures/WBS.jpg)
+ ![WBS](images/WBS.jpg)
  
  ## Gantt Chart
  
- ![Gantt Chart](C:/Users/yyeon/Pictures/GC Final.jpeg)
+ ![Gantt Chart](images/GC Final.jpeg)
  
 
  
