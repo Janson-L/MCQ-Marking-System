@@ -74,6 +74,13 @@ By MCQ Sdn. Bhd.
  
  ![Gantt Chart](images/GCFinal.jpeg)
  
+ 
+ ## Net Present Value (NPV)
+ 
+  ![NPV](images/NPV.jpg)
+ 
+ 
+ 
 
  
  
