@@ -68,7 +68,7 @@ By MCQ Sdn. Bhd.
  
  ## Simple Work Breakdown Structure
  
- ![WBS](images/WBS.jpg)
+ ![WBS](images/WBSNew.jpg)
  
  ## Gantt Chart
  
