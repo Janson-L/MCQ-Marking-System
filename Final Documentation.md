@@ -1,4 +1,4 @@
-# **Section C Implementing the Project Plan**
+# **Section C: Implementing the Project Plan**
 ## Deliverables:
 - A system that can mark MCQ sheets 
 
@@ -27,7 +27,27 @@
 |**TOTAL**|**155960.00**||
 
 
+<br   />
 
 ## Milestone Chart
-| Task      |Estimated Costs (RM)|Notes   |
+|Milestone      |Scheduled Completion|Actual Completion   |
 |-----------|---------------|--------|
+|Project Charter|29/10/2020|29/10/2020|
+||11/11/2020|11/11/2020|
+||4/1/2021 |4/1/2021|
+||8/1/2021 |8/1/2021|
+||13/1/2021|13/1/2021|
+<br  />
+
+# **Section D Executing the Project**
+## Project Design and Coding
+![Flowchart](images/flowchart.png)
+
+<br  />
+
+ ![Screenshot of Coding](images/code.png)
+
+
+<br  />
+
+## Project Result
