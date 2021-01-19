@@ -6,7 +6,7 @@ import imutils
 import cv2
 import csv
 
-def omrmarking(path):
+def omrmarking(path,imgpath):
     total_question=10.0
 
     #ANSWER_KEY = {0: 1, 1: 4, 2: 0, 3: 3, 4: 1}
@@ -29,7 +29,7 @@ def omrmarking(path):
             ANSWER_KEY[key]=4
 
 
-    image = cv2.imread("OmrTest10.png")
+    image = cv2.imread(imgpath)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     blurred = cv2.GaussianBlur(gray, (5, 5), 0)
     edged = cv2.Canny(blurred, 75, 200)
