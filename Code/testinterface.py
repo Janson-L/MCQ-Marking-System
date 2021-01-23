@@ -7,6 +7,7 @@ from main import omrmarking
 import cv2
 
 root= tk.Tk()
+root.title("MCQ Marking System")
 
 canvas1 = tk.Canvas(root, width = 700, height = 700, bg = 'lightsteelblue2', relief = 'raised')
 canvas1.pack()
@@ -22,7 +23,7 @@ def getCSV ():
     print (path)
     return import_file_path
 
-
+#Open Image of Student's OMR
 def openfile():
     filename = filedialog.askopenfilename(title='open')
     global imgpath
@@ -30,9 +31,10 @@ def openfile():
     print(imgpath)
     return filename
 
+#Output Image Uploaded
 def show(p):
     img = Image.open(p)
-    img = img.resize((300, 500))
+    img = img.resize((250, 400))
     img = ImageTk.PhotoImage(img)
     panel = Label(root, image=img)
     panel.image = img
@@ -42,18 +44,7 @@ def openImg():
     x = openfile()
     show(x)
 
-
-
-#def openfile():
-#    filename = filedialog.askopenfilename(title='open')
-#    global imgpath
-#    imgpath = filename
-#    return filename
-
-#def openImg():
-#    x = openfile()
-#    show(x)
-
+#Get result
 def getResult():
     resultlabel = Label(root, bg="white", text="Result:")
     resultlabel.place(x=80, y=480)
@@ -67,13 +58,20 @@ def getResult():
 #button_explore = Button(root, text="Browse Files", command=openImg)
 #button_explore.place(x=80, y=80, width=140, height=40)
 
+canvas1.create_text(250,80, text="INSTRUCTION:\n1) Insert the Answer Sheet in Excel file format by clicking 'Import CSV File'\n2) Insert Student's Answer Sheet in Image file format by clicking 'Import Image File'\n3) Press 'Scan Result' to get final result\n4) Press 'End Program' to leave")
+#Import CSV Button
 browseButton_CSV = tk.Button(root,text="      Import CSV File     ", command=getCSV, bg='green', fg='white', font=('helvetica', 12, 'bold'))
 canvas1.create_window(150, 150, window=browseButton_CSV)
 
+#Import Image Button
 browseButton_IMG= tk.Button(root,text="      Import Image File     ", command=openImg, bg='green', fg='white', font=('helvetica', 12, 'bold'))
 canvas1.create_window(150, 200, window=browseButton_IMG)
 
-btnRead = tk.Button(root, height=1, width=10, text="Scan", command=getResult)
+#Scan button
+btnRead = tk.Button(root, height=1, width=10, text="Scan Result", command=getResult, bg='blue', fg='white', font=('helvetica', 12, 'bold'))
 btnRead.place(x=80, y=400, width=140, height=40)
+
+button_quit=Button(root,text="Exit Program",command=root.quit, bg='red', fg='white', font=('helvetica', 12, 'bold'))
+button_quit.place(x=240,y=600,width=200, height=60)
 
 root.mainloop()
