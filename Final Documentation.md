@@ -60,7 +60,11 @@
 ## Closing Checklist
 
 **1) Customer Acceptance Form**
+<<<<<<< Updated upstream
 <br  /><br />	
+=======
+<br  /><br />
+>>>>>>> Stashed changes
 ![customer_acceptance_form](https://user-images.githubusercontent.com/58871500/105680081-3bb64c00-5f2a-11eb-90d7-2fef1f475217.jpg)
 <br  />
 
