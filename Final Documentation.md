@@ -60,11 +60,7 @@
 ## Closing Checklist
 
 **1) Customer Acceptance Form**
-<<<<<<< Updated upstream
-<br  /><br />	
-=======
-<br  /><br />
->>>>>>> Stashed changes
+
 ![customer_acceptance_form](https://user-images.githubusercontent.com/58871500/105680081-3bb64c00-5f2a-11eb-90d7-2fef1f475217.jpg)
 <br  />
 
@@ -110,7 +106,7 @@ Success criteria listed in the project scope management is to complete this proj
 
 **3.5.4 TRANSITION PlAN**<br  /><br />
 
-**3.5.5 Close Contract**<br  /><br />
+**3.5.5 CLOSE CONTRACT**<br  /><br />
 ![close_contract](https://user-images.githubusercontent.com/58871500/105681143-b2a01480-5f2b-11eb-8216-85032e69a220.jpg)<br /><br />
 
 
