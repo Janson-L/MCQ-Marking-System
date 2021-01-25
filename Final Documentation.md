@@ -54,5 +54,24 @@
 
 
 
-## Project Closing
+# **Section E Completing The Project**
+**Closing Checklist**
+
+1) Customer Acceptance Form
+![customer_acceptance_form](https://user-images.githubusercontent.com/58871500/105680081-3bb64c00-5f2a-11eb-90d7-2fef1f475217.jpg)
+
+2) Lesson Learned Document
+![lesson_learned](https://user-images.githubusercontent.com/58871500/105680385-9ea7e300-5f2a-11eb-9e86-f095003d396c.jpg)
+
+3) Final Project Report
+
+
+
+
+
+4) Close Contract
+![close_contract](https://user-images.githubusercontent.com/58871500/105681143-b2a01480-5f2b-11eb-8216-85032e69a220.jpg)
+
+
+
 
