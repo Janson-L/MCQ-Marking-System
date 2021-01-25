@@ -33,10 +33,10 @@
 |Milestone      |Scheduled Completion|Actual Completion   |
 |-----------|---------------|--------|
 |Project Charter|29/10/2020|29/10/2020|
-||11/11/2020|11/11/2020|
-||4/1/2021 |4/1/2021|
-||8/1/2021 |8/1/2021|
-||13/1/2021|13/1/2021|
+|Project Plan Management|11/11/2020|11/11/2020|
+|Project Execution and Integration|4/1/2021 |4/1/2021|
+|Quality Management|8/1/2021 |8/1/2021|
+|Close Contract|13/1/2021|13/1/2021|
 <br  />
 
 # **Section D: Executing the Project**
