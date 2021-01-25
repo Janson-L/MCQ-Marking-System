@@ -51,8 +51,10 @@
 <br  />
 
 ## Project Result
+![Screenshot of Coding](images/UI.png)
 
 
+<br  />
 
 # **Section E: Completing The Project**
 ## Closing Checklist
