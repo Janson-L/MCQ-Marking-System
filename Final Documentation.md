@@ -55,7 +55,7 @@
 
 
 # **Section E: Completing The Project**
-##Closing Checklist
+## Closing Checklist
 
 **1) Customer Acceptance Form**
 <br  />
@@ -80,23 +80,22 @@
 **3.3 ORIGINAL AND ACTUAL SCHEDULE**<br  />
 
 
-**3.4 ORIGINAL AND ACTUAL BUDGET**<br  />
-The actual budget that we had used is RM 104440.00, which is RM 51520.00 more lower than the estimate budget costs. <br />
+**3.4 ORIGINAL AND ACTUAL BUDGET**<br  /><br />
+The actual budget that we had used is RM 104440.00, which is RM 51520.00 more lower than the estimate budget costs. <br /><br /><br />
 ![cost](https://user-images.githubusercontent.com/58871500/105683480-a36e9600-5f2e-11eb-9fbc-de7aedd9f989.png)
 
+<br />
+**3.5 PROJECT ASSESSMENT**<br  /><br />
+**3.5.1 SCOPE**<br  /><br />
 
-**3.5 PROJECT ASSESSMENT**<br  />
-**3.5.1 SCOPE**<br  />
+**3.5.2 OBJECTIVES**<br  /><br />
 
-**3.5.2 OBJECTIVES**<br  />
+**3.5.3 SUCCESS CRITERIA**<br  /><br />
 
-**3.5.3 SUCCESS CRITERIA**<br  />
+**3.5.4 TRANSITION PlAN**<br  /><br />
 
-**3.5.4 TRANSITION PlAN**<br  />
-
-**3.5.5 Close Contract**<br  />
-![close_contract](https://user-images.githubusercontent.com/58871500/105681143-b2a01480-5f2b-11eb-8216-85032e69a220.jpg)
-<br  />
+**3.5.5 Close Contract**<br  /><br />
+![close_contract](https://user-images.githubusercontent.com/58871500/105681143-b2a01480-5f2b-11eb-8216-85032e69a220.jpg)<br /><br />
 
 
 
