@@ -98,7 +98,6 @@ The actual budget that we had used is RM 104440.00, which is RM 51520.00 more lo
 **3.5.1 SCOPE**<br  /> 
 The project scope of this project is accomplished as the MCQ Marking System which are target to be used by teachers or examiner are able to perform efficiently. 
 The examiners are able to save their time on marking the students'bubble answer sheets and the students can get their results in a shorter time.
-
 <br  /><br  />
 
 **3.5.2 OBJECTIVES**<br  />
@@ -108,8 +107,8 @@ By using this marking system, our objectives of this project is accomplished.
 <br /><br  />
 
 **3.5.3 SUCCESS CRITERIA**<br  />
-Success criteria listed in the project scope management is to complete this project within 4 months with an estimated budget cost of RM155,960. This project should be fulfilled all the customer’s requirements stated in the project scope management. The project manager should make sure that all team members are stay on track with the Gantt chart created and well controlled during the process in order to achieve the scope goals.
-
+Success criteria listed in the project scope management is to complete this project within 4 months with an estimated budget cost of RM155,960. This project should be fulfilled all the customer’s requirements stated in the project scope management. 
+The project manager should make sure that all team members are stay on track with the Gantt chart created and well controlled during the process in order to achieve the scope goals.
 <br /><br  />
 
 **3.5.4 TRANSITION PlAN**<br  /><br />
@@ -118,7 +117,7 @@ Success criteria listed in the project scope management is to complete this proj
 <br  /><br  />
 
 **3.5.5 CLOSE CONTRACT**<br  /><br />
-<img scr="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" align="center"/>
+<img src="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" align="center"/>
 ![contract](https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png)
 
 <br /><br />
