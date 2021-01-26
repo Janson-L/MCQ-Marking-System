@@ -65,19 +65,22 @@
 <br  />
 
 **2) Lesson Learned Document** <br  /><br />
-![lesson_learned](https://user-images.githubusercontent.com/58871500/105680385-9ea7e300-5f2a-11eb-9e86-f095003d396c.jpg)
+![lesson_learned](https://user-images.githubusercontent.com/58871500/105804777-9956a100-5fdb-11eb-9e65-3dbbbb575b8d.png)
 <br  />
 
 **3) Final Project Report**<br  /><br  />
 **MCQ MARKING SYSTEM**<br  />
 	
 **3.1 PROJECT OBJECTIVES**<br  />
-
-
+The objectives of the MCQ Marking System which is developed by MCQ international Sdn. Bhd. is to:
+	a. To save time and reduce the costs of educator for OMR grading.
+	b. To reduce energy consumption of the educator for OMR grading.
+	c. To upgrade the existing grading system.
+<br  />
 
 **3.2 PROJECT RESULTS**<br  />
-
-
+This MCQ Marking System is developed successfully as the system is able to scan and grade the answer sheets correctly.
+<br  />
 
 **3.3 ORIGINAL AND ACTUAL SCHEDULE**<br  />
 The project team members had sticked to the plan and all process are on track which followed the original schedule.<br  /><br  />
@@ -92,11 +95,16 @@ The actual budget that we had used is RM 104440.00, which is RM 51520.00 more lo
 <br />
 
 **3.5 PROJECT ASSESSMENT**<br  /><br />
-**3.5.1 SCOPE**<br  />
+**3.5.1 SCOPE**<br  />  
+The project scope of this project is accomplished as the MCQ Marking System which are target to be used by teachers or examiner are able to perform efficiently. 
+The examiners are able to save their time on marking the students'bubble answer sheets and the students can get their results in a shorter time.
 
 <br  />
 
 **3.5.2 OBJECTIVES**<br  />
+The MCQ Marking System developed by the MCQ International Sdn. Bhd. are able to scan the OMR sheets by using Python and OpenCV. We had applied a perspective transform to 
+extract the top-down, birds-eye-view of the exam. Extract the set of student's answer and examiner's answer bubbles sheets fomr the perspective transformed exam. Then, we sort the questios/bubbles into rows and marked them. 
+By using this marking system, our objectives of this project is accomplished.
 
 
 **3.5.3 SUCCESS CRITERIA**<br  /><br />
@@ -105,9 +113,13 @@ Success criteria listed in the project scope management is to complete this proj
 <br />
 
 **3.5.4 TRANSITION PlAN**<br  /><br />
+![transition](https://user-images.githubusercontent.com/58871500/105806476-0a4b8800-5fdf-11eb-911c-1115a4305af0.png)
+
+<br  />
 
 **3.5.5 CLOSE CONTRACT**<br  /><br />
-![close_contract](https://user-images.githubusercontent.com/58871500/105681143-b2a01480-5f2b-11eb-8216-85032e69a220.jpg)<br /><br />
+<img scr="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" align="center">
+<br /><br />
 
-
+# **Section F: PROJECT PRESENTATION**
 
