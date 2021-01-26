@@ -44,14 +44,19 @@
 ![Flowchart](images/flowchart.png)
 
 <br  />
-
- ![Screenshot of Coding](images/code.png)
+<p align="center">
+	<img src="images/code.png" alt="Code" 
+       width="60%" height="55%"/>
+</p>
 
 
 <br  />
 
 ## Project Result
-![Screenshot of Coding](images/UI.png)
+<p align="center">
+	<img src="images/UI.png" alt="Project Result" 
+       width="60%" height="55%"/>
+</p>
 
 
 <br  />
@@ -60,12 +65,17 @@
 ## Closing Checklist
 
 **1) Customer Acceptance Form**<br /> <br />
-
-![customer_acceptance_form](https://user-images.githubusercontent.com/58871500/105680081-3bb64c00-5f2a-11eb-90d7-2fef1f475217.jpg)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/58871500/105680081-3bb64c00-5f2a-11eb-90d7-2fef1f475217.jpg" alt="Customer Acceptance" 
+       width="60%" height="55%"/>
+</p>
 <br  /><br  />
 
 **2) Lesson Learned Document** <br  /><br />
-![lesson_learned](https://user-images.githubusercontent.com/58871500/105804777-9956a100-5fdb-11eb-9e65-3dbbbb575b8d.png)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/58871500/105804777-9956a100-5fdb-11eb-9e65-3dbbbb575b8d.png" alt="Leason Learned" 
+       width="60%" height="55%"/>
+</p>
 <br  /><br  />
 
 **3) Final Project Report**<br  /><br  />
@@ -84,14 +94,17 @@ This MCQ Marking System is developed successfully as the system is able to scan 
 
 **3.3 ORIGINAL AND ACTUAL SCHEDULE**<br  />
 The project team members had sticked to the plan and all process are on track which followed the original schedule.<br  /><br  />
-![gant3](https://user-images.githubusercontent.com/58871500/105732463-6c6aa580-5f6b-11eb-942f-cbdb0cb89e6f.PNG)
-
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/58871500/105732463-6c6aa580-5f6b-11eb-942f-cbdb0cb89e6f.PNG" alt="Schedule"/>
+</p>
 <br /><br  />
 
 **3.4 ORIGINAL AND ACTUAL BUDGET**<br  />
 The actual budget that we had used is RM 104440.00, which is RM 51520.00 more lower than the estimate budget costs. <br /><br />
-![cost](https://user-images.githubusercontent.com/58871500/105683480-a36e9600-5f2e-11eb-9fbc-de7aedd9f989.png)
-
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/58871500/105683480-a36e9600-5f2e-11eb-9fbc-de7aedd9f989.png" alt="budget" 
+       width="60%" height="55%"/>
+</p>
 <br /><br  />
 
 **3.5 PROJECT ASSESSMENT**<br  /><br  />
@@ -112,17 +125,21 @@ The project manager should make sure that all team members are stay on track wit
 <br /><br  />
 
 **3.5.4 TRANSITION PlAN**<br  /><br />
-![transition](https://user-images.githubusercontent.com/58871500/105806476-0a4b8800-5fdf-11eb-911c-1115a4305af0.png)
-
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/58871500/105806476-0a4b8800-5fdf-11eb-911c-1115a4305af0.png" alt="Transition Plan" 
+       width="60%" height="55%"/>
+</p>
 <br  /><br  />
 
 **3.5.5 CLOSE CONTRACT**<br  /><br />
-<img src="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" text-align="center" />
-
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" 
+       width="70%" height="75%"/>
+</p>
 <br /><br />
 
 # **Section F: PROJECT PRESENTATION**
 <p align="center">
 	<a href="https://youtu.be/tzsEpARvC-M" target="_blank"><img src="https://i9.ytimg.com/vi/tzsEpARvC-M/mq1.jpg?sqp=CJCVwYAG&rs=AOn4CLC0pw6WhoDgx3CgUio3rH1vqUk9Yw" 
-	alt="Presentation Video" width="400" height="200" border="10" /></a>
+	alt="Presentation Video" width="450" height="300" border="10" /></a>
 </p>
