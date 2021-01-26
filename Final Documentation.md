@@ -117,8 +117,7 @@ The project manager should make sure that all team members are stay on track wit
 <br  /><br  />
 
 **3.5.5 CLOSE CONTRACT**<br  /><br />
-<img src="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" align="center"/>
-![contract](https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png)
+<img src="https://user-images.githubusercontent.com/58871500/105804809-a83d5380-5fdb-11eb-96c3-0bf6e1629342.png" alt="Close Contract" text-align="center" />
 
 <br /><br />
 
