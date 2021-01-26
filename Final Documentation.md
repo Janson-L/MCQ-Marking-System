@@ -72,10 +72,10 @@
 **MCQ MARKING SYSTEM**<br  /><br />
 	
 **3.1 PROJECT OBJECTIVES**<br  />
-The objectives of the MCQ Marking System which is developed by MCQ international Sdn. Bhd. is to:
-	a. To save time and reduce the costs of educator for OMR grading.
-	b. To reduce energy consumption of the educator for OMR grading.
-	c. To upgrade the existing grading system.
+The objectives of the MCQ Marking System which is developed by MCQ international Sdn. Bhd. is to:<br  /><br  />
+	a. To save time and reduce the costs of educator for OMR grading.<br  />
+	b. To reduce energy consumption of the educator for OMR grading.<br  />
+	c. To upgrade the existing grading system.<br  />
 <br  /><br  />
 
 **3.2 PROJECT RESULTS**<br  />
@@ -102,8 +102,8 @@ The examiners are able to save their time on marking the students'bubble answer 
 
 **3.5.2 OBJECTIVES**<br  />
 The MCQ Marking System developed by the MCQ International Sdn. Bhd. are able to scan the OMR sheets by using Python and OpenCV. We had applied a perspective transform to 
-extract the top-down, birds-eye-view of the exam. Extract the set of student's answer and examiner's answer bubbles sheets fomr the perspective transformed exam. Then, we sort the questios/bubbles into rows and marked them. 
-By using this marking system, our objectives of this project is accomplished.
+extract the top-down, birds-eye-view of the exam. Extract the set of student's answer and examiner's answer bubbles sheets from the from the perspective transformed exam.
+Then, we sort the question/bubbles into rows and marked them. By using this marking system, our objectives of this project is accomplished.
 <br /><br  />
 
 **3.5.3 SUCCESS CRITERIA**<br  />
