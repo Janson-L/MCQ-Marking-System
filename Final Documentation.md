@@ -122,4 +122,4 @@ The project manager should make sure that all team members are stay on track wit
 <br /><br />
 
 # **Section F: PROJECT PRESENTATION**
-
+<img scr = "https://youtu.be/tzsEpARvC-M" alt="Presentation Video" text-align="center" />
