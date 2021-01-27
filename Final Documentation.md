@@ -140,6 +140,6 @@ The project manager should make sure that all team members are stay on track wit
 
 # **Section F: PROJECT PRESENTATION**
 <p align="center">
-	<a href="https://youtu.be/tzsEpARvC-M" target="_blank"><img src="https://i9.ytimg.com/vi/tzsEpARvC-M/mq1.jpg?sqp=CJCVwYAG&rs=AOn4CLC0pw6WhoDgx3CgUio3rH1vqUk9Yw" 
+	<a href="https://youtu.be/tzsEpARvC-M" target="_blank"><img src="https://user-images.githubusercontent.com/58871500/105981258-dc467080-60d0-11eb-8aee-8c31da2f9999.png" 
 	alt="Presentation Video" width="450" height="250" border="10" /></a>
 </p>
