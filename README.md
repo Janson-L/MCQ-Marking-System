@@ -8,5 +8,5 @@ By MCQ Sdn. Bhd.
  
  
 To get more information, please visit our wiki page by clicking the link below: <br />
-https://github.com/Janson-L/MCQ-Marking-System/wiki 
+https://github.com/Janson-L/MCQ-Marking-System/wiki
  
